@@ -4,6 +4,7 @@ public abstract class EnemyShip {
 
 	private String name;
 	private double damage;
+	private String percentage;
 	public String getName() {
 		return name;
 	}
